@@ -1,6 +1,6 @@
 # Processamento de Linguagem Natural
 
-Materiais utilizados e desenvolvidos durante o curso de capacitação em Processamento de Linguagem Natural, fornecido pelo projeto Tomorrow, uma parceria do instituto de computação ad Universidade Federal da Bahia (UFBA) e a Positivo. Curso ministrado pelo professor [Marlo Vieira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4246824U6), meu professor orientador.
+Projetos desenvolvidos e materiais utilizados durante o curso de capacitação em Processamento de Linguagem Natural, fornecido pelo projeto Tomorrow, uma parceria do instituto de computação ad Universidade Federal da Bahia (UFBA) e a Positivo. Curso ministrado pelo professor [Marlo Vieira](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4246824U6), meu professor orientador.
 
 ## Objetivos do Curso
 Compreender e Delimitar a área de Processamento de Linguagem Natural e suas principais tarefas, implementando técnicas clássicas e contemporâneas aos principais problemas da área.
