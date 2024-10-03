@@ -6,7 +6,9 @@ Projetos desenvolvidos e materiais utilizados durante o curso de capacitação e
 Compreender e Delimitar a área de Processamento de Linguagem Natural e suas principais tarefas, implementando técnicas clássicas e contemporâneas aos principais problemas da área.
 
 ## Objetivos Específicos
-Posicionar a área de Processamento de Linguagem Natural como área interdisciplinar; Compreender níveis de análise linguística e principais tarefas de análise associadas a esses; Construir soluções a algumas tarefas baseado em métodos simbólicos, estatísticos ou neurais;
+* Posicionar a área de Processamento de Linguagem Natural como área interdisciplinar; 
+* Compreender níveis de análise linguística e principais tarefas de análise associadas a esses; 
+* Construir soluções a algumas tarefas baseado em métodos simbólicos, estatísticos ou neurais;
 
 ## Ementa
 * Linguística Computacional e PLN;
